@@ -1,1 +1,5 @@
-# .github
+# About EE-Wiki
+
+## From CHINA, founded by some college students...
+
+### Details to be completed...
