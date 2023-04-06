@@ -1,5 +1,5 @@
-# About EE-Wiki
+# About TidalForce
 
-## From CHINA, founded by some college students...
+## To do our bit for improvement of this great world.
 
 ### Details to be completed...
