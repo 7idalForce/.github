@@ -1,5 +1,9 @@
-# About TidalForce
+# Welcome to the Github Page of [TidalForce](https://www.tidalforce.cn/).
 
-## To do our bit for improvement of this great world.
+## About us
 
-### Details to be completed...
+> **To do our bit for improvement of this great world.**
+
+## On-going projects
+
+* [EE-Wiki](https://github.com/EE-Wiki/EE-Wiki) -> Building an electronic industry encyclopedia website.
